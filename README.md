@@ -3,7 +3,7 @@ Installation
 
 To install, run
 
-    git clone git@bitbucket.org:shenbin04/tmux-config.git
+    git clone https://shenbin04@bitbucket.org/shenbin04/tmux-config.git ~/.tmux
     cd ~/.tmux
     make install
 
